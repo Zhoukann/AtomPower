@@ -1,4 +1,4 @@
-# Power Modeling and Prediction Framework for Rocket / BOOM Cores
+# Power Modeling and Prediction Framework
 
 This repository contains scripts and preliminary workflows for **parsing elaborated SystemVerilog designs**, **processing FSDB waveform data**, and **training cross-core power prediction models** (e.g., SmallBOOM → MediumBOOM).
 
