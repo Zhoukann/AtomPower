@@ -13,6 +13,7 @@ The first step parses an **elaborated SystemVerilog design** and extracts **stru
 ```bash
 cd Rocket/Design
 python3 1_Parse.py Rocket.elab.v
+```
 
 ## 2. Waveform Processing Scripts (Raw / Data-Dependent)
 
