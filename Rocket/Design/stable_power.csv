@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+/TestDriver/testHarness/chiptop0/system/tile_prci_domain/element_reset_domain_rockettile/core/,3030000.0,5024,85198,32488,1477,15150,5314,37517,128,660,435,1340,73,0,1272
+/TestDriver/testHarness/chiptop0/system/tile_prci_domain/element_reset_domain_rockettile/core/csr/,886000.0,1402,38642,8557,2,5070,78,17779,0,2,30,358,0,0,35
+/TestDriver/testHarness/chiptop0/system/tile_prci_domain/element_reset_domain_rockettile/core/div/,143200.0,214,6924,1537,0,1140,642,2652,0,126,384,152,73,0,256
+/TestDriver/testHarness/chiptop0/system/tile_prci_domain/element_reset_domain_rockettile/core/ibuf/,49300.0,90,4895,1902,3,2223,1139,278,0,6,9,5,0,0,6
+/TestDriver/testHarness/chiptop0/system/tile_prci_domain/element_reset_domain_rockettile/core/rf_ext/,1320000.0,1984,0,0,0,0,128,0,128,0,0,0,0,0,0
